@@ -1255,6 +1255,10 @@
 .fa-android:before {
   content: "\f17b";
 }
+fa-google-play:before {
+  content: "\f17b";
+}
+
 .fa-linux:before {
   content: "\f17c";
 }
